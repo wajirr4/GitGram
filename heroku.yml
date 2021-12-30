@@ -1,5 +1,6 @@
-image:
-  file: Dockerfile
+build:
+  docker:
+    web: Dockerfile
 
 ports:
   - port: 8080
