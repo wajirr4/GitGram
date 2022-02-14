@@ -31,7 +31,7 @@ else:
 updater = Updater(token=BOT_TOKEN, workers=1)
 dispatcher = updater.dispatcher
 
-print("If you need more help from Me, Join @AnonymousRobotSupport in Telegram.")
+print("If you need more help from Me, Join @DevilsHeavenMF in Telegram.")
 
 
 def start(_bot, update):
