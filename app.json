@@ -1,6 +1,7 @@
 {
   "name": "ɢɪᴛɢʀᴀᴍ ʙᴏᴛ",
   "description": "A Telegram Bot which will notify you about events of your GitHub Repo.",
+  "logo": "https://telegra.ph/file/04955bd5888a89dced11a.jpg",
   "keywords": ["gitgram", "github", "events"],
   "repository": "https://github.com/AnonymousBoy1025/GitGram",
   "stack": "container",
