@@ -55,7 +55,8 @@ def support(_bot, update):
     """Links to Support"""
     message = update.effective_message
     message.reply_text(
-        f"*ɢᴇᴛᴛɪɴɢ sᴜᴘᴘᴏʀᴛ*\n\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴘ ɪɴ ᴜsɪɴɢ ᴍᴇ, ᴊᴏɪɴ [Anonymous Support](https://telegram.me/AnonymousRobotSupport).",
+        f"*ɢᴇᴛᴛɪɴɢ sᴜᴘᴘᴏʀᴛ*\n\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴘ ɪɴ ᴜsɪɴɢ ᴍᴇ, ᴊᴏɪɴ [Anonymous Support](https://t.me/DevilsHeavenMF).",
+        disable_web_page_preview=True,
         parse_mode="markdown"
     )
 
@@ -65,6 +66,7 @@ def source(_bot, update):
     message = update.effective_message
     message.reply_text(
         f"*sᴏᴜʀᴄᴇ​*:\n[ɢɪᴛɢʀᴀᴍ ʀᴇᴘᴏ​](https://github.com/AnonymousBoy1025/GitGram).",
+        disable_web_page_preview=True,
         parse_mode="markdown"
     )
 
