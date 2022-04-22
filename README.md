@@ -43,3 +43,17 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 2. [Open this in Gitpod](https://gitpod.io/#github.com/AnonymousBoy1025/GitGram).
 3. After workspace build, dependencies will be installed.
 4. Follow step 2 and 3 in Setup section.
+
+
+## ᴄʀᴇᴅɪᴛs 💖
+- [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](https://github.com/AnonymousR1025) for [Nothing](https://github.com/AnonymousR1025/GitGram)
+- [Pokurt](https://github.com/pokurt) for [GitGram](https://github.com/pokurt/GitGram)
+
+[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+## sᴜᴩᴩᴏʀᴛ 🎑
+<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/anonymous_was_bot"><img src="https://img.shields.io/badge/%20Anonymous-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+------------------------------------------------
+-------------------------------------------------
