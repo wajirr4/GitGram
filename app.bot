@@ -6,8 +6,8 @@
         "telegram",
         "github"
     ],
-    "repository": "https://github.com/AnonymousBoy1025/GitGram",
-    "website": "https://github.com/AnonymousBoy1025/GitGram",
+    "repository": "https://github.com/wajirr4/GitGram",
+    "website": "https://github.com/wajirr4/GitGram",
     "success_url": "https://t.me/DevilsHeavenMF",
     "stack": "container",
     "env": {
