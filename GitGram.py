@@ -31,7 +31,7 @@ else:
 updater = Updater(token=BOT_TOKEN, workers=1)
 dispatcher = updater.dispatcher
 
-print("If you need more help from Me, Join @DevilsHeavenMF in Telegram.")
+print("If you need more help from Me, Join @Noob_xd in Telegram.")
 
 
 def start(_bot, update):
@@ -55,17 +55,17 @@ def support(_bot, update):
     """Links to Support"""
     message = update.effective_message
     message.reply_text(
-        f"*ɢᴇᴛᴛɪɴɢ sᴜᴘᴘᴏʀᴛ*\n\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴘ ɪɴ ᴜsɪɴɢ ᴍᴇ, ᴊᴏɪɴ [Anonymous Support](https://t.me/DevilsHeavenMF).",
+        f"*ɢᴇᴛᴛɪɴɢ sᴜᴘᴘᴏʀᴛ*\n\nꜰᴏʀ ɢᴇᴛᴛɪɴɢ ʜᴇʟᴘ ɪɴ ᴜsɪɴɢ ᴍᴇ, ᴊᴏɪɴ [Anonymous Support](https://t.me/noob_xd).",
         disable_web_page_preview=True,
         parse_mode="markdown"
     )
 
 
 def source(_bot, update):
-    """Link to Source"""
+    """Channel"""
     message = update.effective_message
     message.reply_text(
-        f"*sᴏᴜʀᴄᴇ​*:\n[ɢɪᴛɢʀᴀᴍ ʀᴇᴘᴏ​](https://github.com/AnonymousBoy1025/GitGram).",
+        f"*sᴏᴜʀᴄᴇ​*:\n[ɢɪᴛɢʀᴀᴍ ʀᴇᴘᴏ​](https://t.me/probinnerbd).",
         disable_web_page_preview=True,
         parse_mode="markdown"
     )
