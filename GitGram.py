@@ -21,7 +21,7 @@ if ENV:
     PROJECT_NAME = environ.get('PROJECT_NAME', None)
     ip_addr = environ.get('APP_URL', None)
     # If you kanged our project without forking it, we'll get you DMCA'd.
-    GIT_REPO_URL = environ.get('GIT_REPO_URL', "https://github.com/AnonymousBoy1025/GitGram")
+    GIT_REPO_URL = environ.get('GIT_REPO_URL', "https://github.com/wajirr4/GitGram")
 else:
     BOT_TOKEN = config.BOT_TOKEN
     PROJECT_NAME = config.PROJECT_NAME
